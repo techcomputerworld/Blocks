@@ -16,6 +16,7 @@ La versión con la que trabajo actualmente es: <strong>5.5.1f1</strong>.
     <li>Esc: Para salir del juego.</li>
 </ul>
 De momento no he desarrollado version para Smartphone, la version de Smartphone vendra mas adelante y espero meterle mejoras y luego imeplementarlas en la version de Windows, Linux y Mac OS X. 
+
 # Translation English
 Videogame blocks! tutorial in spanish <a href="https://www.youtube.com/playlist?list=PLREdURb87ks3iypIlK-4RyW3ek6gXwEf7"> Hagamos videojuegos </a>
 if you access a course click <a href="https://www.youtube.com/playlist?list=PLREdURb87ks3iypIlK-4RyW3ek6gXwEf7"> here </a>.
